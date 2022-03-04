@@ -1,4 +1,3 @@
-#TechVidvan ChatBot project
 import nltk, random, json , pickle
 nltk.download('punkt');nltk.download('wordnet')
 from nltk.stem import WordNetLemmatizer
