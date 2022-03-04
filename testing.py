@@ -1,4 +1,3 @@
-#TechVidvan ChatBot project
 import nltk
 import random, json , pickle
 nltk.download('punkt')
